@@ -9,3 +9,7 @@ def hi():
 
 def bye():
     print('bye')
+
+
+def new():
+    print(1)
