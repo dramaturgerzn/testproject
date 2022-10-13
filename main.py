@@ -7,9 +7,9 @@ def hi():
     print('hi')
 
 
-def bye():
-    print('bye')
-
-
 def new():
+    print(1)
+
+
+def new1():
     print(1)
